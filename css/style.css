@@ -1,0 +1,23 @@
+.yellow{
+    background: #F8EE00;
+}
+.dark-gr{
+    background: #111A24;
+}
+#editor {
+    width: 80%;
+    height:50vh;
+    border: 1px solid #ccc;
+}
+
+#textArea {
+    margin-top: 20px;
+    padding: 20px;
+    width: 90%;
+    border: 2px solid #ccc;
+    height: 60vh;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
